@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgagalleryap.ccbp.tech/](https://durgagalleryap.ccbp.tech/)🔗
+## **_Website_**:[https://gallery-app-one-eta.vercel.app/](https://gallery-app-one-eta.vercel.app/)🔗
 
 
 
